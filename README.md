@@ -1,2 +1,2 @@
 # Real-Time-Chat-Application
-#Technologies : React js , Firebase 
+Technologies : React js , Firebase 
